@@ -1,8 +1,8 @@
 # The Digital Detective
 
-This repository contains my work for the Diwali Independent Learning Assignment. Through a series of step-by-step missions, I explore how a computer processes information, practice Terminal commands, inspect how the operating system manages processes and permissions, run and build basic Python programs, and use Git and GitHub for version control.
+This repository contains my work for the Diwali Independent Learning Assignment. Across nine step-by-step missions, I explored how a computer processes data, practiced Terminal commands, inspected how macOS manages processes and permissions, built basic Python scripts, and used Git and GitHub for version control.
 
-Each mission is completed, documented in its own folder, and committed separately in sequence.
+Each mission was completed, documented in its own folder, and committed separately in sequence.
 
 ## Mission Index
 
@@ -16,9 +16,18 @@ Each mission is completed, documented in its own folder, and committed separatel
 - [Mission 7 - Computer Networks](./mission-07-networking/README.md)
 - [Mission 8 - Final Review and Submission](./mission-08-final-report/README.md)
 
+## Topics Explored
 
-## My Learning
+- Input, Processing, Output, and Storage (IPOS) cycles, hardware parts, and software categories
+- Command-line file operations, directory navigation, flags, pipes, and package managers
+- Operating system responsibilities, running processes (PIDs), absolute vs. relative paths, and file permissions
+- Compilers vs. interpreters and running Python scripts from Terminal
+- Decimal, binary, and hexadecimal number conversions and ASCII / UTF-8 text encoding
+- Git version control, branching, Pull Requests, and commit history management
+- Computer network types (LAN, MAN, WAN), DNS lookups, connectivity tests, and client-server communication
 
-- Learned how to navigate folders, create and append files safely, and filter output using flags and pipes in Terminal.
-- Explored how macOS manages running processes with PIDs, disk storage, and read, write, and execute file permissions.
-- Practiced converting numbers between decimal, binary, and hexadecimal and built a working Python converter script.
+## How to Run the Number Converter
+
+1. Open Terminal and navigate into the Mission 5 folder:
+   ```bash
+   cd mission-05-numbers-data
