@@ -15,3 +15,10 @@ Each mission is completed, documented in its own folder, and committed separatel
 - [Mission 6 - Git, GitHub, Branches and Pull Requests](./mission-06-git-github/README.md)
 - [Mission 7 - Computer Networks](./mission-07-networking/README.md)
 - [Mission 8 - Final Review and Submission](./mission-08-final-report/README.md)
+
+
+## My Learning
+
+- Learned how to navigate folders, create and append files safely, and filter output using flags and pipes in Terminal.
+- Explored how macOS manages running processes with PIDs, disk storage, and read, write, and execute file permissions.
+- Practiced converting numbers between decimal, binary, and hexadecimal and built a working Python converter script.
